@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"Poppins",sans-serif;
+    background-color:rgb(118, 227, 237);
+    background-color: #ea4335;
+    background-color: #e8f8f7;
+    
+
+}
+.card{
+    width: 840px;
+    height: 400px;
+    position: absolute;
+    margin: auto;
+    /* background-color: rgb(255, 255, 228);
+    background-color: #0e857a; */
+    /* background-color: #fbbc04; */
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;    
+}
+h1{
+    color: #E0A96D;
+    /* color:#fbbc04; */
+    text-align: center;
+    margin-top:50px;
+    margin-left: 20px;
+    
+
+}
+.coverpage{
+    width: 450px;
+    height: 550px;
+    margin-left: 35%;
+    display: block; 
+}
+
+.nextarrow{
+    margin-right: 10%;
+    margin-top: 50%;
+}
+h2{
+    margin-left: 1%;
+}
+p{
+    margin-left: 1%;
+    margin-top: 28px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Roboto",sans-serif;
+
+}
+h3{
+    margin-top: 1%;
+    margin-left: 1%;
+    color: #7e6de0;
+    font-size: 30px;
+
+}
+div{
+    padding: 2%;
+}
